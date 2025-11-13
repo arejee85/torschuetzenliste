@@ -1,0 +1,6 @@
+[
+    {"platz": 1, "spieler": "Max Mustermann", "team": "FC Beispiel", "tore": 5},
+    {"platz": 2, "spieler": "Anna Müller", "team": "SV Demo", "tore": 4},
+    {"platz": 3, "spieler": "Tom Schneider", "team": "TSV Test", "tore": 3},
+    {"platz": 4, "spieler": "Lisa Becker", "team": "FC Beispiel", "tore": 2}
+]
